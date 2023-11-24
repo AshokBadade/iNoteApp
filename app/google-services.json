@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "421127198395",
+    "project_id": "realtimedatabasefirebasekotlin",
+    "storage_bucket": "realtimedatabasefirebasekotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421127198395:android:befbe9e3ecd40dc75ebb9e",
+        "android_client_info": {
+          "package_name": "com.ashok.realtimedatabasefirebasekotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421127198395-4krmggdcfp1l30jtr0atkrl0fit4forq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgub_Xfs5VSnc9LY8_C51Z_BuvNE0u-iw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421127198395-4krmggdcfp1l30jtr0atkrl0fit4forq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
